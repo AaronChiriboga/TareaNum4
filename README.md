@@ -48,3 +48,7 @@ _Aprender el uso y cálculo de superposición en circuitos
 5. CONCLUSIONES
 
 En esta tarea, era importante utilizar tanto las habilidades previas como las nuevas habilidades adquiridas. El uso de teoremas nuevos y previamente aprendidos es claramente útil para resolver circuitos más complejos.
+
+6. BIBLIOGRAFIA
+
+*Floyd, TL (2007). Principios de circuitos eléctricos (8.a ed.). Pearso
